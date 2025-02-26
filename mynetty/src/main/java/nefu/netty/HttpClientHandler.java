@@ -1,4 +1,4 @@
-package nefu;
+package nefu.netty;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
