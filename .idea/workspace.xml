@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f61cc3dd-cce7-4394-a1e3-4c12faaebd21" name="更改" comment="update">
+      <change afterPath="$PROJECT_DIR$/TongRDS/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TongRDS/src/main/java/nefu/tongrds/Controller/RedisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TongRDS/src/main/java/nefu/tongrds/Service/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TongRDS/src/main/java/nefu/tongrds/TongRdsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/QQ/QQClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/QQ/QQServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/netty/MyChannelHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/rpc/RpcClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/rpc/RpcRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/rpc/RpcResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/rpc/RpcServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mynetty/src/main/java/nefu/HttpClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/netty/HttpClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mynetty/src/main/java/nefu/HttpServerChannelHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/netty/HttpServerChannelHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mynetty/src/main/java/nefu/HttpServerChannelHandler0.java" beforeDir="false" afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/netty/HttpServerChannelHandler0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mynetty/src/main/java/nefu/HttpServerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/mynetty/src/main/java/nefu/netty/HttpServerInitializer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rKL2cYGqz7swnxMqvpkH0EBHp9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;HTTP 请求.test | #1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.lock.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.set.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RedisTest.setRedisService.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace-spring/work/mynetty/src/main/java/nefu/py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.BufTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.ExecutorT.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.FutureTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.GCTest.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.HttpClient.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.PyCaller.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.QQClient.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.QQServer.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.T.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.nefu.App.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;redis&quot;,
+      &quot;mysql_aurora_aws&quot;,
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace-spring\work\mynetty\src\main\java\nefu\py" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.BufTest">
+    <configuration name="BufTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nefu.netty.buf.BufTest" />
+      <module name="mynetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nefu.netty.buf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nefu.async.FutureTest" />
+      <module name="mynetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nefu.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nefu.QQ.QQClient" />
+      <module name="mynetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nefu.QQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QQServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nefu.QQ.QQServer" />
+      <module name="mynetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nefu.QQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nefu.vt.T" />
+      <module name="mynetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nefu.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TongRdsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="TongRDS" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="nefu.tongrds.TongRdsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TongRdsApplication" />
+      <item itemvalue="应用程序.BufTest" />
+      <item itemvalue="应用程序.FutureTest" />
+      <item itemvalue="应用程序.QQClient" />
+      <item itemvalue="应用程序.QQServer" />
+      <item itemvalue="应用程序.T" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.BufTest" />
+        <item itemvalue="应用程序.QQClient" />
+        <item itemvalue="应用程序.QQServer" />
+        <item itemvalue="应用程序.FutureTest" />
+        <item itemvalue="应用程序.T" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f61cc3dd-cce7-4394-a1e3-4c12faaebd21" name="更改" comment="" />
+      <created>1736302615172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736302615172</updated>
+      <workItem from="1736302616254" duration="10172000" />
+      <workItem from="1736390656723" duration="5258000" />
+      <workItem from="1736413506895" duration="1165000" />
+      <workItem from="1736476716044" duration="4987000" />
+      <workItem from="1736748699860" duration="3611000" />
+      <workItem from="1736817087807" duration="3930000" />
+      <workItem from="1736845752380" duration="1936000" />
+      <workItem from="1736919289318" duration="5748000" />
+      <workItem from="1736989837044" duration="1474000" />
+      <workItem from="1737017567296" duration="784000" />
+      <workItem from="1737337816689" duration="1260000" />
+      <workItem from="1737352502322" duration="386000" />
+      <workItem from="1737528225380" duration="459000" />
+      <workItem from="1737528745307" duration="9000" />
+      <workItem from="1737537125000" duration="3498000" />
+      <workItem from="1737594304184" duration="4996000" />
+      <workItem from="1737696839920" duration="1476000" />
+      <workItem from="1739957269788" duration="44000" />
+      <workItem from="1740016214390" duration="1040000" />
+      <workItem from="1740036250766" duration="4000" />
+      <workItem from="1740359872067" duration="1342000" />
+      <workItem from="1740467585488" duration="1608000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1737006730089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737006730089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1737006749831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737006749831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1737006797918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737006797918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1737696870441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737696870441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1739957297740</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739957297740</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <option name="closed" value="true" />
+      <created>1740016494157</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740016494157</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1740016501778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740016501778</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <option name="closed" value="true" />
+      <created>1740359878937</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740359878937</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <option name="closed" value="true" />
+      <created>1740475770140</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740475770140</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
