@@ -1,4 +1,4 @@
-package nefu;
+package nefu.netty;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
